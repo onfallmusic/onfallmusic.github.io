@@ -1,5 +1,5 @@
 content:
   - name: main
     label: Main
-    path: src/_posts
+    path: src/_main
     type: text
