@@ -2,4 +2,4 @@ content:
   - name: main
     label: Main
     path: src/_main
-    type: text
+    type: collection
